@@ -1,4 +1,5 @@
-const LitElement = Object.getPrototypeOf(customElements.get("hui-view"))
+//See https://developers.home-assistant.io/blog/2020/09/30/customViewChanges
+const LitElement = Object.getPrototypeOf(customElements.get("hui-masonry-view")); //TODO: This might break with any new version
 const html = LitElement.prototype.html
 const css = LitElement.prototype.css
 

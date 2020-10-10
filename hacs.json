@@ -14,5 +14,5 @@
     "media_player",
     "scene"
   ],
-  "homeassistant": "0.99.2"
+  "homeassistant": "0.116.2"
 }

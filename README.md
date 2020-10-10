@@ -1,7 +1,5 @@
 # Button Entity Row
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-
 Creates a row of buttons to be placed in an `entities` card.
 
 ![example-gif](examples/example-gif.gif)
