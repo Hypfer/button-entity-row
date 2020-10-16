@@ -1,8 +1,12 @@
 # Button Entity Row
 
+
+**This has been superseded by [https://github.com/jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row)**
+
 Creates a row of buttons to be placed in an `entities` card.
 
 ![example-gif](examples/example-gif.gif)
+
 
 ## Options
 
